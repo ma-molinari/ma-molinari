@@ -1,16 +1,18 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**ma-molinari/ma-molinari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Me chamo Matheus Molinari, sou desenvolvedor fullstack, especializado em JavaScript, TypeScript, Node.js, React, Next.js e C#. Além dessas tecnologias, tenho experiência com Golang, React Native, Angular, Flutter e Python, entre outras.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  Stack: JavaScript | TypeScript | Node.js | React | Next.js | C# | Go
+</p>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  Contato: ⤵️
+</p>
+
+<p align="left">
+  <a href="www.linkedin.com/in/ma-molinari" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
